@@ -1,0 +1,89 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+form {
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+input,
+textarea {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+form button {
+    display: block;
+padding: 0.5rem 1rem;
+background: hsl(120, 56%, 40%);
+border: none;
+color: #fff;
+border-radius: 5px;
+width: 5rem;
+margin-left: auto;
+
+
+}
+.page-container{
+background-color: darkcyan;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+
+.link{
+    color:darkcyan;
+    text-decoration:none;
+}
+
+.list{
+    padding:10px;
+    margin-left:30px;
+     list-style: none;
+}
+.img{
+  
+    height:150px;
+    width:200px;
+    margin-left: 170px;
+    margin-top:-8rem;
+}
+.text1{
+   margin-left:25rem;;
+    margin-top:-9rem;
+    padding:2px;
+    font-size:18px;
+}
+.text2{
+    padding:2px;
+    margin-left:25rem;;
+    margin-top:1rem;
+    font-size:18px;
+}
+.text3{
+    font-size:18px;
+}
+.head2{
+    margin-left:15rem;
+    margin-top:-130px;
+}
+.para{
+    margin-left:15rem;
+    font-size:18px;
+}
+.form{
+    margin-left:15rem;
+    margin-top:-8rem;
+}
+.end{
+   background-color: darkcyan;
+   padding:10px;
+   bottom:0;
+   color:white;
+   position:fixed;
+   width:100%;
+}
